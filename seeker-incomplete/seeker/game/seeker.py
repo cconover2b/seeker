@@ -1,5 +1,7 @@
 import random
 
+# All completed
+
 class Seeker:
     """The person looking for the Hider. 
     
